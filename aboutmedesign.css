@@ -70,7 +70,7 @@ article h1:after {
 article img {
 	height: 250px;
 	border: 2px solid #fff;
-	border-radius: 8px;
+	border-radius: 50%;
 	margin-top: 60px;
 	display: block;
 	margin-left: auto;
